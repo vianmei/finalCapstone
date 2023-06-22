@@ -21,3 +21,6 @@ If the user selects ‘bond’, do the following:
 Calculate how much money the user will have to repay each month and output the answer.
 
 Author
+
+## Credits
+Created by Vian Mok - https://github.com/
