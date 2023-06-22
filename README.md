@@ -32,5 +32,8 @@ If the user selects ‘bond’, do the following:
   - The number of months they plan to take to repay the bond. e.g. 120
 Output the calculation how much money the user will have to repay each month.
 
+<img width="1680" alt="" src="./images/project.png">
+
+
 ## 3. Credits
 Created by Vian Mok - [(https://github.com/vianmei/finalCapstone)](https://github.com/vianmei/finalCapstone)
