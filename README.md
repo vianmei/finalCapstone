@@ -1,5 +1,13 @@
-Project Name : Financial Calculators
-Description :  A program that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator.
+## FinalCapstone - Financial Calculators
+This program that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator.
+
+## Table of Contents
+1. 
+2. Installation
+3. How to Use
+4. Credits
+
+## How to Use
 
 The user should be allowed to choose which calculation they want to do
 1. investment - to calculate the amount of interest you'll earn on your investment
@@ -19,8 +27,6 @@ If the user selects ‘bond’, do the following:
   ○ The interest rate. e.g. 7
   ○ The number of months they plan to take to repay the bond. e.g. 120
 Calculate how much money the user will have to repay each month and output the answer.
-
-Author
 
 ## Credits
 Created by Vian Mok - https://github.com/
